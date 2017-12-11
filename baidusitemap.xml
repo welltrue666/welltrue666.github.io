@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/11/02/charge_pile/</loc>
+    <lastmod>2017-11-07T03:14:43.203Z</lastmod>
+    <data>
+        <display>
+        <title>充电桩</title>
+        <pubTime>2017-11-02T08:00:00.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/11/02/dist_ngas/</loc>
+    <lastmod>2017-11-04T10:51:03.597Z</lastmod>
+    <data>
+        <display>
+        <title>分布式能源</title>
+        <pubTime>2017-11-02T08:00:01.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/11/02/dist_pv/</loc>
+    <lastmod>2017-11-04T10:43:18.600Z</lastmod>
+    <data>
+        <display>
+        <title>分布式光伏</title>
+        <pubTime>2017-11-02T08:00:02.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+</urlset>
